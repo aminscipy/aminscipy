@@ -1,4 +1,15 @@
-Hello, welcome to my profile! below is my app, it has three screens.
+Hello, welcome to my profile! 
+
+monalisa's image + text - 'thank you for going through my profile' voice - female, english
+
+![thank you by monalisa](https://github.com/aminscipy/aminscipy/assets/110195303/e8481336-6f5b-4372-a37b-de33ba0d3f3a)
+
+monalisa explaining how this app works. voice - female, english
+
+![App explaination by monalisa](https://github.com/aminscipy/aminscipy/assets/110195303/9dc24ae9-0b8d-4c8d-9bf2-123c4c208e1f)
+
+
+below is my app, it has three screens.
 
 1.auth, 2.home, 3.video player
 
@@ -11,11 +22,3 @@ App basically creates a video from given image and audio, below are the examples
 image used in app
 
 ![monalisa](https://github.com/aminscipy/aminscipy/assets/110195303/05f766ee-e087-4def-9f23-21579cd5ea1c)
-
-monalisa's image + text - 'thank you for going through my profile' voice - female, english
-
-![thanks you](https://github.com/aminscipy/aminscipy/assets/110195303/e8481336-6f5b-4372-a37b-de33ba0d3f3a)
-
-monalisa explaining how this app works. voice - female, english
-
-![App explaination](https://github.com/aminscipy/aminscipy/assets/110195303/9dc24ae9-0b8d-4c8d-9bf2-123c4c208e1f
