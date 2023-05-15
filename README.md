@@ -8,7 +8,7 @@ auth - firebase auth with google sign in
 
 storage - firebase storage
 
-hosting - Google cloud VM instance for ML algorithm
+hosting - Google cloud VM instance
 
 tts - google cloud text to speech API - currently supporting 2 genders, 4 -languages
 
