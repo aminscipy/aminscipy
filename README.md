@@ -1,24 +1,23 @@
-Hello, welcome to my profile! 
+stack
 
-monalisa's image + text - 'thank you for going through my profile' voice - female, english
+frontend - flutter
+state management - GETx
+auth - firebase auth with google sign in
+storage - firebase storage
+hosting - Google cloud VM instance for ML algorithm
+tts - google cloud text to speech API - currently supporting 2 genders, 4 -languages
+API - Flask
 
-![thank you by monalisa](https://github.com/aminscipy/aminscipy/assets/110195303/e8481336-6f5b-4372-a37b-de33ba0d3f3a)
+app demo
 
-monalisa explaining how this app works. voice - female, english
+tom cruise - I am iron man
 
-![App explaination by monalisa](https://github.com/aminscipy/aminscipy/assets/110195303/9dc24ae9-0b8d-4c8d-9bf2-123c4c208e1f)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMTao0Wq4eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+monalisa explaining the app 
 
-below is my app, it has three screens.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OYG84zlZ1TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-1.auth, 2.home, 3.video player
+monalisa saying thank you!
 
-![auth screen](https://github.com/aminscipy/aminscipy/assets/110195303/7614fb46-9021-425a-bbf9-90107711e506)
-![home screen](https://github.com/aminscipy/aminscipy/assets/110195303/67515db3-2168-458d-977a-9522e39d5613)
-![video player](https://github.com/aminscipy/aminscipy/assets/110195303/add067cc-67b9-44b1-935c-1e204ddf1f5a)
-
-App basically creates a video from given image and audio, below are the examples.
-
-image used in app
-
-![monalisa](https://github.com/aminscipy/aminscipy/assets/110195303/05f766ee-e087-4def-9f23-21579cd5ea1c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T4Zbggu2jFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
