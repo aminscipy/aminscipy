@@ -1,5 +1,5 @@
-stack
-
+**Stack**
+------------------------------------------------------------------------------------------------------------
 frontend - flutter
 
 state management - GETx
@@ -16,8 +16,8 @@ API - Flask
 
 ML algorithm - LipGAN
 
-app demo
-
+**App demo**
+-------------------------------------------------------------------------------------------------------------
 tom cruise - I am iron man
 
 [![Watch the video](https://img.youtube.com/vi/iMTao0Wq4eQ/maxresdefault.jpg)](https://youtu.be/iMTao0Wq4eQ)
