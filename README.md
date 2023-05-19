@@ -14,6 +14,8 @@ tts - google cloud text to speech API - currently supporting 2 genders, 4 -langu
 
 API - Flask
 
+ML algorithm - LipGAN
+
 app demo
 
 tom cruise - I am iron man
